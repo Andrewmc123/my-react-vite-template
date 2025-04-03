@@ -7,9 +7,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+
 // How to clone
 
-- To get started with this template, run the following command in your terminal:
+ To get started with this template, run the following command in your terminal:
 
 //
 bash
@@ -17,9 +18,9 @@ Copy
 git clone https://github.com/Andrewmc123/my-react-vite-template.git <new-project-name>//
 
 
-- replace <new-project-name> with your desired project directory name.
+ replace <new-project-name> with your desired project directory name.
 
-- Installation & Setup
+ Installation & Setup
 Navigate to the project directory
 
 bash
@@ -27,14 +28,14 @@ Copy
 cd <new-project-name>
 
 
-- Install dependencies:
+ Install dependencies:
 
 bash
 Copy
 npm install
 
 
-- Start the development server:
+ Start the development server:
 
 bash
 Copy
@@ -53,3 +54,11 @@ index.html - Update the <title> tag
 package.json - Change the "name" field
 
 README.md - Replace this content with your project documentation
+
+//`How to clone`// 
+
+iF you wish to clone this repo run this command 
+
+//npx tiged <YOUR-GH-USERNAME>/my-react-vite-template#main <new-project-name>
+```
+
